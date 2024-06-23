@@ -2,7 +2,7 @@
 <b>Problem:</b> To predict students’ grade as “pass” or “fail” before: (a) Mid-II, and, (b) Final exams. 
 For Mid-II grade prediction, use the following features: first four assignments, first four quizzes 
 and Mid-I scores; and, for grade prediction before final exam, use all the features (take best 5 
-assignments and quizzes).<be>
+assignments and quizzes).<br>
 <b>Objectives:</b> To answer the following two research questions.
 * RQ-1: How accurately can we predict students’ grades before the Mid-II exam?
 * RQ-2: How accurately can we predict students’ grades before Final exam?<br>
