@@ -2,11 +2,11 @@
 <b>Problem:</b> To predict students’ grade as “pass” or “fail” before: (a) Mid-II, and, (b) Final exams. 
 For Mid-II grade prediction, use the following features: first four assignments, first four quizzes 
 and Mid-I scores; and, for grade prediction before final exam, use all the features (take best 5 
-assignments and quizzes).
+assignments and quizzes).<be>
 <b>Objectives:</b> To answer the following two research questions.
 * RQ-1: How accurately can we predict students’ grades before the Mid-II exam?
-* RQ-2: How accurately can we predict students’ grades before Final exam?
-<b>Dataset:</b> The dataset contains students’ assessment scores including <Assignments, Quizzes, MidI, Mid-II>, and a predictor variable <Grade>. The data has been anonymized to hide identities of 
+* RQ-2: How accurately can we predict students’ grades before Final exam?<br>
+<b>Dataset:</b> The dataset contains students’ assessment scores including <Assignments, Quizzes, Mid-I, Mid-II>, and a predictor variable <Grade>. The data has been anonymized to hide identities of 
 the students and course(s). The data is shared on seven sheets (D1 to D7), where each sheet 
 contains a different number of assignments and quizzes. However, only the best 5 assignments and 
 quizzes are included for each student before calculating their grades. Also note that total marks for 
