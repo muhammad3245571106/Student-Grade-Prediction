@@ -12,6 +12,7 @@ the students and course(s). The data is shared on seven sheets (D1 to D7), where
 contains a different number of assignments and quizzes. However, only the best 5 assignments and 
 quizzes are included for each student before calculating their grades. Also note that total marks for 
 assignments and quizzes are given on the top along their corresponding weights.
+<br>
 ## Project Phase-I
 Perform exploratory data analysis (EDA) of the given dataset for 
 understanding and preprocessing the data that might help you in the second 
