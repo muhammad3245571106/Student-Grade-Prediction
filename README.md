@@ -5,7 +5,9 @@ and Mid-I scores; and, for grade prediction before final exam, use all the featu
 assignments and quizzes).<br>
 <b>Objectives:</b> To answer the following two research questions.
 * RQ-1: How accurately can we predict students’ grades before the Mid-II exam?
-* RQ-2: How accurately can we predict students’ grades before Final exam?<br>
+* RQ-2: How accurately can we predict students’ grades before Final exam?
+<br>
+<br>
 <b>Dataset:</b> The dataset contains students’ assessment scores including <Assignments, Quizzes, Mid-I, Mid-II>, and a predictor variable <Grade>. The data has been anonymized to hide identities of 
 the students and course(s). The data is shared on seven sheets (D1 to D7), where each sheet 
 contains a different number of assignments and quizzes. However, only the best 5 assignments and 
